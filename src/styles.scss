@@ -1,0 +1,11 @@
+@import "~bulma/bulma.sass";
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#map-container,
+.leaflet-container {
+  height: 100vh;
+}
